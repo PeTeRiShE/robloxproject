@@ -1,0 +1,1 @@
+print("Witaj z serwera! Rojo działa!")
